@@ -88,4 +88,13 @@ Response
     "message": "User removed Ssuccessfully!"
 }
 ```
+## Postman View
+![Screenshot (54)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/9e9e7b86-706d-4613-9861-3c177f150290)
+![Screenshot (55)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/3de7bc69-f7c9-49b1-8ccf-701813ca600e)
+![Screenshot (56)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/b68f6d95-0251-419f-97cc-51a2004411d1)
+![Screenshot (57)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/9f893523-0c11-4b8c-a621-dd9da1f5ddd7)
+![Screenshot (58)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/f948fb61-ca9a-4796-b4c4-fce20a8dfb5f)
+
+
+
 
