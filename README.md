@@ -89,6 +89,8 @@ Response
 }
 ```
 ## Postman View
+Postman Collection Link : https://elements.getpostman.com/redirect?entityId=27366721-ffb1b6fd-7e82-4a00-a261-5ccad5a2cabc&entityType=collection
+
 ![Screenshot (54)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/9e9e7b86-706d-4613-9861-3c177f150290)
 ![Screenshot (55)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/3de7bc69-f7c9-49b1-8ccf-701813ca600e)
 ![Screenshot (56)](https://github.com/15shivabhagat/Code-a-Thon/assets/71555394/b68f6d95-0251-419f-97cc-51a2004411d1)
